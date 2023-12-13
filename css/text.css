@@ -1,0 +1,126 @@
+.bgimg{
+    background-image: url(../img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 100%
+  
+}
+
+.btn1{
+    
+    border: 2px solid #2487ce;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #2487ce;
+}
+.btn1:hover{
+    background-color:#2487ce;
+    color: white;
+    transition:all 1s;
+}
+.color{
+    color: rgba(3, 3, 255, 0.836);
+}
+.colorgr{
+    color: rgb(165, 125, 125);
+}
+
+
+.section{
+    width: 100%;
+    padding: 20px;
+    opacity: 50%;
+}
+.section:hover{
+
+opacity: 100%;
+padding: 0px;
+transition:all 1s;
+}
+
+
+.section1{
+    width: 100%;
+    padding: 7px;
+    opacity: 50%;
+}
+.section1:hover{
+opacity: 100%;
+padding: 0px;
+transition:all 1s;
+}
+.button{
+     background-color: #2487ce;
+     border-radius: 5px;
+ border: 2px solid #2487ce;
+     color: white;
+     padding-left: 15px;    
+     padding-right: 15px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+}
+.button:hover{
+    transition:all 1s;
+    color:  #2487ce;
+    background-color: white;
+}
+.button1{
+    background-color: #2487ce;
+    border-radius: 5px;
+    border: 2px solid #2487ce;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.button1:hover{
+    transition:all 1s;
+    color:  #2487ce;
+    background-color: white;
+}
+
+.box{
+
+    border-radius: 12px;
+}
+.box:hover{
+    box-shadow: 0px 0px 10px  2px #dfdfdf; 
+
+}
+
+.logo{
+    opacity: 50%;
+
+}
+
+.logo:hover{
+    opacity: 100%;
+}
+
+.bdwhite{
+    background-color: white;
+}
+.img{
+opacity: 40%;
+}
+.img:hover{
+   opacity: 100%;
+   transition: all 0.1s; 
+
+}
+.btn2{
+    border: 2px solid white;
+    color: white;
+    background-color :#2487ce;;
+}
+.btn2:hover{
+    background-color: white;
+    color: #2487ce;;
+    transition: all 1s; 
+}
+
+
+
+
